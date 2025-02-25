@@ -1,0 +1,7 @@
+Django>=3.2
+djangorestframework
+django-redis
+transformers
+torch
+googletrans==4.0.0-rc1
+datasets
