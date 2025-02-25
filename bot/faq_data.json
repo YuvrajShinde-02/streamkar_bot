@@ -1,0 +1,59 @@
+{
+    "what is streamkar": {
+      "keywords": ["what is streamkar", "streamkar", "live", "broadcast", "platform"],
+      "answer": "StreamKar is a leading live streaming platform where you can broadcast your life, interact in real time, and connect with a global community."
+    },
+    "features": {
+      "keywords": ["features", "capabilities", "offer", "streaming", "interaction"],
+      "answer": "StreamKar offers live streaming, real-time interactions, social connectivity, and monetization opportunities for broadcasters."
+    },
+    "download": {
+      "keywords": ["download", "app", "store", "apk"],
+      "answer": "You can download StreamKar from the App Store for iOS, Google Play Store for Android, or via APK directly from our website."
+    },
+    "broadcast": {
+      "keywords": ["broadcast", "start broadcast"],
+      "answer": "To broadcast on StreamKar, simply open the app and tap the 'Broadcast' button. Customize your stream with filters and settings before going live."
+    },
+    "sign up": {
+      "keywords": ["sign up", "register", "join"],
+      "answer": "To sign up on StreamKar, download the app and register using your mobile number or social media account."
+    },
+    "earn": {
+      "keywords": ["earn", "monetize", "money", "gift", "sponsorship"],
+      "answer": "StreamKar provides monetization options such as virtual gifts and sponsorships, letting you earn while you stream."
+    },
+    "safety": {
+      "keywords": ["safety", "secure", "guidelines"],
+      "answer": "We prioritize a safe digital experience on StreamKar. Our community guidelines and support ensure a secure environment for everyone."
+    },
+    "technical": {
+      "keywords": ["technical", "issue", "problem", "error"],
+      "answer": "For technical issues, please refer to our FAQs or contact support directly through the app."
+    },
+    "live chat": {
+      "keywords": ["live chat", "chat", "communication"],
+      "answer": "During live streams, you can interact with your viewers in real time using our live chat feature."
+    },
+    "profile": {
+      "keywords": ["profile", "account", "settings", "update"],
+      "answer": "Manage and update your profile from the settings section within your account."
+    },
+    "help": {
+      "keywords": ["help", "support", "faq"],
+      "answer": "For help or more information, please check our FAQs section or contact our support team."
+    },
+    "payment": {
+    "keywords": ["payment", "pay", "billing", "subscription", "charge"],
+    "answer": "For payment-related issues, please check our payment FAQs on our website or contact our billing support for assistance."
+  },
+  "event": {
+    "keywords": ["event", "schedule", "concert", "live event", "festival"],
+    "answer": "For event details, please visit our events page or contact our support team to get the latest information."
+  },
+  "technical support": {
+    "keywords": ["technical", "issue", "problem", "error", "support"],
+    "answer": "For technical support, please refer to our technical FAQs or contact our support team directly if you are experiencing issues with our platform."
+  }
+  }
+  
