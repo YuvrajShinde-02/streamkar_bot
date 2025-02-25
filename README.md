@@ -1,4 +1,3 @@
-StreamKar AI Customer Support Bot
 Overview
 The StreamKar AI Customer Support Bot is a live chatbot built to assist users with queries related to StreamKar—a leading live streaming platform. The bot is designed to:
 
